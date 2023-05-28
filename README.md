@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AndreinaBaltieri
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning algorithm and data structure
-- 💞️ I’m looking to collaborate on iOS projects
+- 🌱 I’m currently studying software development 
 - 📫 andreinabaltieri@icloud.com
 
 <!---
