@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AndreinaBaltieri
-- 👀 I’m interested in mobile development
 - 🌱 I’m currently studying software development 
 - 📫 andreinabaltieri@icloud.com
 
